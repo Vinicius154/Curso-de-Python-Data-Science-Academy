@@ -22,4 +22,4 @@ arr = input_values()
 print("Array antes da ordenação:", arr)
 
 bubble_sort(arr)
-print("Array ordenado:", arr)
+print("Array ordenado de menor para o maior:", arr)
